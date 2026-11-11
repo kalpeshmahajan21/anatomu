@@ -1,14 +1,3 @@
-Anatomu is made of two kinds of material, under different licenses.
-
-1. SOURCE CODE (everything in src/, scripts/, and the config files): MIT License, below.
-
-2. ANATOMY DATA (the 3D models and texts in public/models/): NOT under the MIT License.
-   They are derived from third-party sources and keep those sources' licenses:
-   mainly CC BY-SA 4.0 (Z-Anatomy / BodyParts3D, Wikipedia) and CC BY 4.0 (NIH Human
-   Reference Atlas), with a few non-commercial exceptions. See NOTICE for the full list.
-
---------------------------------------------------------------------------------
-
 MIT License
 
 Copyright (c) 2026 kalpeshmahajan21

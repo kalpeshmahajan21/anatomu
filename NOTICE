@@ -1,9 +1,14 @@
 Anatomu
 Third-party material and credits
 
-The source code is MIT-licensed (see LICENSE). The anatomy data in public/models/ comes
-from the sources below and is shared under their licenses. If you reuse these files, keep
-these credits and the same licenses.
+Anatomu is made of two kinds of material, under different licenses:
+
+1. SOURCE CODE (src/, scripts/, config files): MIT License, see LICENSE.
+
+2. ANATOMY DATA (the 3D models and texts in public/models/): NOT under the MIT License.
+   It comes from the sources below and keeps their licenses: mainly CC BY-SA 4.0 and
+   CC BY 4.0, with two non-commercial exceptions. If you reuse these files, keep these
+   credits and the same licenses.
 
 --------------------------------------------------------------------------------
 3D anatomy models (public/models/*.glb, names in index.json)

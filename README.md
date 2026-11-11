@@ -1,7 +1,143 @@
-# Anatomu v0.0.2
+<div align="center">
 
-A web app for exploring the human body in 3D: real anatomy models, smooth camera, and a
-detail panel for every structure.
+<img src="public/favicon.svg" width="76" alt="Anatomu logo" />
+
+# Anatomu
+
+**Explore the human body in 3D, right in your browser.**
+Over 2,100 real anatomical structures in 7 layers, with names, Latin terms and descriptions. Free, no sign-up, works on phones.
+
+[![Live demo](https://img.shields.io/badge/Live_demo-anatomu.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://anatomu.vercel.app)
+[![MIT License](https://img.shields.io/badge/Code-MIT-22d3ee?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.0.2-64748b?style=for-the-badge)](package.json)
+
+![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+
+<a href="https://anatomu.vercel.app"><img src="docs/media/hero.webp" width="100%" alt="Anatomu demo: the 3D body turning, the whole heart selected with Ctrl+click, search, layers, zoom and the phone view" /></a>
+
+**[▶ Open the app](https://anatomu.vercel.app)** · **[Watch the full demo video (MP4, 1080p)](docs/media/demo.mp4)** · **[How it works](#how-the-tricky-parts-work)**
+
+</div>
+
+---
+
+## At a glance
+
+| | |
+| --- | --- |
+| **Structures** | About 2,130 bones, muscles, organs, vessels, nerves and glands, plus about 420 whole organs and joints made of several pieces |
+| **Layers** | Skeleton, Muscles, Organs, Vessels, Nerves, Reproductive, Endocrine |
+| **Info panel** | Name, Latin name (TA2), system; for most parts (about 1,670) a description, with structure, function and nerve supply where the source has them |
+| **Bodies** | Male, and a female view with female pelvis, reproductive organs and breasts |
+| **Devices** | Desktop (mouse and keyboard) and phones (touch, bottom-sheet panel) |
+| **Download** | About 9 MB for all layers; each layer loads only when you turn it on |
+| **Backend** | None. A static site with no accounts or analytics; your browser only remembers the Male/Female choice and that you've seen the tips |
+
+## Features
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Click any part
+
+The rest of the body turns to faint glass, the camera glides to the part, and a panel opens with its name, Latin name, description and sections.
+
+<img src="docs/media/click.gif" alt="Clicking the femur: the rest of the body turns to glass and the info panel opens" />
+
+</td>
+<td width="50%" valign="top">
+
+### Select whole organs
+
+The heart is 17 pieces. **Ctrl+click** (Cmd+click on a Mac) selects the whole heart; the glow shows what you'll get before you click.
+
+<img src="docs/media/whole.gif" alt="Ctrl+click on the heart selects all 17 pieces" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Search everything
+
+Type "heart" or "knee" to get the whole organ or joint, or any of the 2,100+ single parts. Press `/` to start.
+
+<img src="docs/media/search.gif" alt="Searching for heart and opening the whole heart" />
+
+</td>
+<td valign="top">
+
+### Seven layers
+
+Bones, organs, vessels, nerves, muscles, reproductive and endocrine. Turn them on and off in any mix.
+
+<img src="docs/media/layers.gif" alt="Turning on organs, vessels, nerves and muscles" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Zoom to the cursor
+
+The wheel (or a pinch) zooms toward whatever is under the pointer, so you can go straight into the face or a foot. A slider shows how close you are.
+
+<img src="docs/media/zoom.gif" alt="Zooming into the face and orbiting around the head" />
+
+</td>
+<td valign="top">
+
+### Build mode
+
+Assembles the body layer by layer, each layer sweeping up from the feet.
+
+<img src="docs/media/build.gif" alt="The body assembling layer by layer" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Male and female
+
+Switch to swap the pelvis, reproductive organs, breasts and bladder. The rest of the body is shared ([details](#whats-in-it)).
+
+<img src="docs/media/sex.gif" alt="Switching between male and female views" />
+
+</td>
+<td valign="top" align="center">
+
+### Phones too
+
+Tap, pinch and search; the panel becomes a bottom sheet.
+
+<img src="docs/media/phone.gif" width="260" alt="Searching for the heart on a phone and isolating it" />
+
+</td>
+</tr>
+</table>
+
+### Screenshots
+
+| | |
+| --- | --- |
+| ![Skeleton, organs and vessels](docs/media/hero.jpg) | ![The whole heart selected](docs/media/whole-heart.jpg) |
+| Skeleton, organs and vessels | The whole heart, with its 17 parts |
+| ![The knee joint](docs/media/knee-joint.jpg) | ![Back muscles](docs/media/muscles-back.jpg) |
+| The knee joint (the bones that meet in it) | Muscles, back view |
+| ![Brain and nerves](docs/media/nerves-brain.jpg) | ![Female view](docs/media/female.jpg) |
+| Cerebellum, with the nervous system | Female view, reproductive layer |
+| ![Search for knee](docs/media/search.jpg) | <img src="docs/media/phone-body.jpg" width="190" /> <img src="docs/media/phone-heart.jpg" width="190" /> |
+| Search results: whole joints first | On a phone |
+
+> **Accuracy.** The models are real anatomical meshes (Z-Anatomy / BodyParts3D, NIH Human Reference Atlas), not drawn by hand. Descriptions are Wikipedia text; clinical paragraphs are kept apart and marked "Not reviewed". This is a learning tool, not a medical reference. Known limits are listed below.
+
+---
 
 ## What's in it
 

@@ -1,0 +1,18 @@
+node_modules
+dist
+*.local
+.DS_Store
+.vercel
+
+# Source Z-Anatomy download (300+ MB); re-download per README
+source_models/
+
+# Python caches from the export scripts
+__pycache__/
+
+# Screen recordings and other large local media
+*.mp4
+*.mov
+
+# Local editor / tool settings
+.claude/

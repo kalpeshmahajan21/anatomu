@@ -1,0 +1,292 @@
+[endocrine] Thyroid gland / Development: degenerates
+    At the end of the fifth week the thyroglossal duct degenerates, and over the following two weeks the detached thyroid migrates to its final position.
+[muscles] Superior rectus muscle.r / Structure: congenital
+    More rarely, it may be congenitally absent.
+[muscles] Superior rectus muscle.l / Structure: congenital
+    More rarely, it may be congenitally absent.
+[muscles] Platysma.r / Structure: deficient
+    This leaves the inferior part of the neck in the midline deficient of significant muscle cover.
+[muscles] Platysma.l / Structure: deficient
+    This leaves the inferior part of the neck in the midline deficient of significant muscle cover.
+[nerves] Circular sulcus of insula.l / Function: pain
+    This is supported by functional imaging results showing that the structure and function of the right frontal insula is correlated with the ability to feel one's own heartbeat, or to empathize with the pain of others.
+[nerves] Straight gyrus (Gyrus rectus).l / Intro: disorder
+    A specific function for the straight gyrus has not yet been brought to light; however, in males, greater activation of the straight gyrus within the medial orbitofrontal cortex while observing sexually visual pictures ha
+[nerves] Superior frontal gyrus.l / Function: patient, treatment
+    In 1998, neurosurgeon Itzhak Fried described a 16-year-old female patient (referred to as "patient AK") who laughed when her SFG was stimulated with electric current during treatment for epilepsy.
+[nerves] Angular gyrus.l / Function: lesion, operations, symptoms, syndrome
+    Lesion to this part of the brain shows symptoms of the Gerstmann syndrome: effects include finger agnosia, alexia (inability to read), acalculia (inability to use arithmetic operations), agraphia (inability to copy), and
+[nerves] Angular gyrus.l / Function: disorders
+    They stated: There may be neurological disorders that disturb metaphor and synaesthesia.
+[nerves] Angular gyrus.l / Function: lesions, patients
+    This has not been studied in detail but we have seen disturbances in the Bouba/Kiki effect (Ramachandran & Hubbard, 2001a) as well as with proverbs in patients with angular gyrus lesions.
+[nerves] Supramarginal gyrus.l / Intro: lesions
+    It is probably involved with language perception and processing, and lesions in it may cause receptive aphasia.
+[nerves] Precuneus.l / Intro: injury, trauma, wounds
+    Furthermore, it is rarely subject to isolated injury due to strokes, or trauma such as gunshot wounds.
+[nerves] Precuneus.l / Function: pain
+    Another area has been linked to visuospatial imagery. (It is not though clear how these—and the functions noted below—link with the above three subdivisions.) The precuneus plays a role in itch sensations (there are many
+[nerves] Temporal plane.l / Function: patients
+    Research conducted with the use of neuroimaging have found patients with schizophrenia have structural abnormalities in their superior temporal gyrus.
+[nerves] Superior temporal gyrus (Lateral part).l / Function: patients
+    Research conducted with the use of neuroimaging have found patients with schizophrenia have structural abnormalities in their superior temporal gyrus.
+[nerves] Medial occipitotemporal gyrus (Parahippocampal*).l / Function: patients, syndrome
+    Damage to the PPA (for example, due to stroke) often leads to a syndrome in which patients cannot visually recognize scenes even though they can recognize the individual objects in the scenes (such as people, furniture, 
+[nerves] Insula (Subcentral gyrus and ant. and post. sulci*).l / Function: pain
+    This is supported by functional imaging results showing that the structure and function of the right frontal insula is correlated with the ability to feel one's own heartbeat, or to empathize with the pain of others.
+[nerves] Caudate nucleus.r / Intro: disease
+    While the caudate nucleus has long been associated with motor processes due to its role in Parkinson's disease, it plays important roles in various other nonmotor functions as well, including procedural learning, associa
+[nerves] Caudate nucleus.l / Intro: disease
+    While the caudate nucleus has long been associated with motor processes due to its role in Parkinson's disease, it plays important roles in various other nonmotor functions as well, including procedural learning, associa
+[nerves] Anterior commissure / Structure: pain
+    It serves in this way to connect the two temporal lobes, but it also contains decussating fibers from the olfactory tracts, and is a part of the neospinothalamic tract for pain.
+[nerves] Fornix.r / Intro: surgical
+    While its exact function and importance in the physiology of the brain are still not entirely clear, it has been demonstrated in humans that surgical transection – the cutting of the fornix along its body – can cause mem
+[nerves] Fornix.l / Intro: surgical
+    While its exact function and importance in the physiology of the brain are still not entirely clear, it has been demonstrated in humans that surgical transection – the cutting of the fornix along its body – can cause mem
+[nerves] Septum pellucidum / Intro: syndrome
+    The septum is not present in the syndrome septo-optic dysplasia.
+[nerves] Habenula / Function: pain
+    The habenular nuclei are involved in pain processing, reproductive behavior, nutrition, sleep-wake cycles, stress responses, and learning.
+[nerves] Midbrain.r / Development: congenital
+    The outward expansion compresses the still-forming cerebral aqueduct, which can result in partial or total obstruction, leading to congenital hydrocephalus.
+[nerves] Midbrain.l / Development: congenital
+    The outward expansion compresses the still-forming cerebral aqueduct, which can result in partial or total obstruction, leading to congenital hydrocephalus.
+[nerves] Nucleus of abducens nerve.l / Function: lesions, paralysis
+    Moreover, lesions to the axonal tract of interneurons (in the medial longitudinal fasciculus) have been shown to disrupt conjugate eye movements through the paralysis of the contralateral eye.
+[nerves] Nucleus of abducens nerve.l / Function: lesions
+    Importantly, despite the lesions, this muscle remains functional during convergence eye movements.
+[nerves] Nucleus of abducens nerve.r / Function: lesions, paralysis
+    Moreover, lesions to the axonal tract of interneurons (in the medial longitudinal fasciculus) have been shown to disrupt conjugate eye movements through the paralysis of the contralateral eye.
+[nerves] Nucleus of abducens nerve.r / Function: lesions
+    Importantly, despite the lesions, this muscle remains functional during convergence eye movements.
+[nerves] Pons.r / Intro: surgeon
+    The pons is also called the pons Varolii ("bridge of Varolius"), after the Italian anatomist and surgeon Costanzo Varolio (1543–75).
+[nerves] Pons.r / Function: pain
+    Functions of these four cranial nerves (V-VIII) include regulation of respiration, control of involuntary actions, sensory roles in hearing, equilibrium, and taste, and in facial sensations such as touch and pain, as wel
+[nerves] Pons.r / Function: paralysis
+    The pons is implicated in sleep paralysis, and may also play a role in generating dreams.
+[nerves] Pons.l / Intro: surgeon
+    The pons is also called the pons Varolii ("bridge of Varolius"), after the Italian anatomist and surgeon Costanzo Varolio (1543–75).
+[nerves] Pons.l / Function: pain
+    Functions of these four cranial nerves (V-VIII) include regulation of respiration, control of involuntary actions, sensory roles in hearing, equilibrium, and taste, and in facial sensations such as touch and pain, as wel
+[nerves] Pons.l / Function: paralysis
+    The pons is implicated in sleep paralysis, and may also play a role in generating dreams.
+[nerves] Optic nerve (II).r / Structure: syndrome
+    Peripheral neuropathies like Guillain–Barré syndrome do not affect the optic nerve.
+[nerves] Optic nerve (II).l / Structure: syndrome
+    Peripheral neuropathies like Guillain–Barré syndrome do not affect the optic nerve.
+[nerves] Trochlear nerve (IV).r / Structure: lesion
+    Thus a lesion of the trochlear nucleus affects the contralateral eye.
+[nerves] Trochlear nerve (IV).l / Structure: lesion
+    Thus a lesion of the trochlear nucleus affects the contralateral eye.
+[nerves] Dorsal scapular nerve.r / Intro: syndrome
+    Dorsal scapular nerve syndrome can cause a winged scapula, with pain and limited motion.
+[nerves] Dorsal scapular nerve.l / Intro: syndrome
+    Dorsal scapular nerve syndrome can cause a winged scapula, with pain and limited motion.
+[nerves] Ulnar nerve.r / Intro: injury
+    The nerve is the largest in the human body unprotected by muscle or bone, so injury is common.
+[nerves] Ulnar nerve.l / Intro: injury
+    The nerve is the largest in the human body unprotected by muscle or bone, so injury is common.
+[nerves] Median nerve.r / Intro: syndrome
+    Carpal tunnel syndrome is the disability that results from the median nerve being pressed in the carpal tunnel.
+[nerves] Median nerve.l / Intro: syndrome
+    Carpal tunnel syndrome is the disability that results from the median nerve being pressed in the carpal tunnel.
+[nerves] Lacrimal gland.r / Intro: inflammation
+    Inflammation of the lacrimal glands is called dacryoadenitis.
+[nerves] Lacrimal gland.l / Intro: inflammation
+    Inflammation of the lacrimal glands is called dacryoadenitis.
+[nerves] Tympanic membrane.r / Intro: rupture
+    Rupture or perforation of the eardrum can lead to conductive hearing loss.
+[nerves] Tympanic membrane.l / Intro: rupture
+    Rupture or perforation of the eardrum can lead to conductive hearing loss.
+[nerves] Superior cerebellar peduncle.l / Structure: lesions
+    It is important as an anatomical landmark, as lesions above it cause contralateral cerebellar signs, while lesions below it cause ipsilateral cerebellar signs.
+[nerves] Circular sulcus of insula.r / Function: pain
+    This is supported by functional imaging results showing that the structure and function of the right frontal insula is correlated with the ability to feel one's own heartbeat, or to empathize with the pain of others.
+[nerves] Straight gyrus (Gyrus rectus).r / Intro: disorder
+    A specific function for the straight gyrus has not yet been brought to light; however, in males, greater activation of the straight gyrus within the medial orbitofrontal cortex while observing sexually visual pictures ha
+[nerves] Superior frontal gyrus.r / Function: patient, treatment
+    In 1998, neurosurgeon Itzhak Fried described a 16-year-old female patient (referred to as "patient AK") who laughed when her SFG was stimulated with electric current during treatment for epilepsy.
+[nerves] Angular gyrus.r / Function: lesion, operations, symptoms, syndrome
+    Lesion to this part of the brain shows symptoms of the Gerstmann syndrome: effects include finger agnosia, alexia (inability to read), acalculia (inability to use arithmetic operations), agraphia (inability to copy), and
+[nerves] Angular gyrus.r / Function: disorders
+    They stated: There may be neurological disorders that disturb metaphor and synaesthesia.
+[nerves] Angular gyrus.r / Function: lesions, patients
+    This has not been studied in detail but we have seen disturbances in the Bouba/Kiki effect (Ramachandran & Hubbard, 2001a) as well as with proverbs in patients with angular gyrus lesions.
+[nerves] Supramarginal gyrus.r / Intro: lesions
+    It is probably involved with language perception and processing, and lesions in it may cause receptive aphasia.
+[nerves] Precuneus.r / Intro: injury, trauma, wounds
+    Furthermore, it is rarely subject to isolated injury due to strokes, or trauma such as gunshot wounds.
+[nerves] Precuneus.r / Function: pain
+    Another area has been linked to visuospatial imagery. (It is not though clear how these—and the functions noted below—link with the above three subdivisions.) The precuneus plays a role in itch sensations (there are many
+[nerves] Temporal plane.r / Function: patients
+    Research conducted with the use of neuroimaging have found patients with schizophrenia have structural abnormalities in their superior temporal gyrus.
+[nerves] Superior temporal gyrus (Lateral part).r / Function: patients
+    Research conducted with the use of neuroimaging have found patients with schizophrenia have structural abnormalities in their superior temporal gyrus.
+[nerves] Medial occipitotemporal gyrus (Parahippocampal*).r / Function: patients, syndrome
+    Damage to the PPA (for example, due to stroke) often leads to a syndrome in which patients cannot visually recognize scenes even though they can recognize the individual objects in the scenes (such as people, furniture, 
+[nerves] Insula (Subcentral gyrus and ant. and post. sulci*).r / Function: pain
+    This is supported by functional imaging results showing that the structure and function of the right frontal insula is correlated with the ability to feel one's own heartbeat, or to empathize with the pain of others.
+[nerves] Superior cerebellar peduncle.r / Structure: lesions
+    It is important as an anatomical landmark, as lesions above it cause contralateral cerebellar signs, while lesions below it cause ipsilateral cerebellar signs.
+[nerves] Vitreous body.r / Development: degenerate
+    Produced by cells in the non-pigmented portion of the ciliary body, the vitreous humour is derived from embryonic mesenchyme cells, which degenerate after birth.
+[nerves] Vitreous body.r / Development: degeneration
+    Central vitreous liquefies, fibrillar degeneration occurs, and the tracts break up (syneresis).
+[nerves] Vitreous body.l / Development: degenerate
+    Produced by cells in the non-pigmented portion of the ciliary body, the vitreous humour is derived from embryonic mesenchyme cells, which degenerate after birth.
+[nerves] Vitreous body.l / Development: degeneration
+    Central vitreous liquefies, fibrillar degeneration occurs, and the tracts break up (syneresis).
+[nerves] Posterior segment of eyeball.r / Intro: diseases, disorders, treatment
+    Some ophthalmologists specialize in the treatment and management of posterior segment disorders and diseases.
+[nerves] Posterior segment of eyeball.l / Intro: diseases, disorders, treatment
+    Some ophthalmologists specialize in the treatment and management of posterior segment disorders and diseases.
+[nerves] Cornea.r / Intro: surgical
+    The cornea can be reshaped by surgical procedures such as LASIK.
+[nerves] Cornea.l / Intro: surgical
+    The cornea can be reshaped by surgical procedures such as LASIK.
+[nerves] Anterior segment of eyeball.r / Intro: diseases, disorders, treatment
+    Some ophthalmologists and optometrists specialize in the treatment and management of anterior segment disorders and diseases.
+[nerves] Anterior segment of eyeball.l / Intro: diseases, disorders, treatment
+    Some ophthalmologists and optometrists specialize in the treatment and management of anterior segment disorders and diseases.
+[nerves] Anterior chamber of eyeball.r / Intro: injury
+    In hyphema, blood fills the anterior chamber as a result of a hemorrhage, most commonly after a blunt eye injury.
+[nerves] Anterior chamber of eyeball.r / Intro: inflammatory
+    Anterior uveitis is an inflammatory process affecting the iris and ciliary body, with resulting inflammatory signs in the anterior chamber.
+[nerves] Anterior chamber of eyeball.l / Intro: injury
+    In hyphema, blood fills the anterior chamber as a result of a hemorrhage, most commonly after a blunt eye injury.
+[nerves] Anterior chamber of eyeball.l / Intro: inflammatory
+    Anterior uveitis is an inflammatory process affecting the iris and ciliary body, with resulting inflammatory signs in the anterior chamber.
+[nerves] Nucleus ambiguus.r / Function: lesions
+    Lesions of nucleus ambiguus results in nasal speech, dysphagia, dysphonia, and deviation of the uvula toward the contralateral side.
+[nerves] Nucleus ambiguus.l / Function: lesions
+    Lesions of nucleus ambiguus results in nasal speech, dysphagia, dysphonia, and deviation of the uvula toward the contralateral side.
+[nerves] Lateral corticospinal tract / Function: lesion
+    For example, if there is a lesion at the pre-central gyrus in the right cerebral cortex, then the left side of the body will be affected.
+[nerves] Lateral spinothalamic tract / Intro: pain
+    It carries pain, and temperature sensory information (protopathic sensation) to the thalamus.
+[organs] Gingiva / Intro: disease
+    Gum health and disease can have an effect on general health.
+[organs] Gingiva / Structure: inflammation
+    Changes in color, particularly increased redness, together with swelling and an increased tendency to bleed, suggest an inflammation that is possibly due to the accumulation of bacterial plaque.
+[organs] Gingiva / Structure: clinical, disease
+    Overall, the clinical appearance of the tissue reflects the underlying histology, both in health and disease.
+[organs] Gingiva / Structure: disease, prognosis
+    When gum tissue is not healthy, it can provide a gateway for periodontal disease to advance into the deeper tissue of the periodontium, leading to a poorer prognosis for long-term retention of the teeth.
+[organs] Parotid gland.r / Development: rupturing
+    The epithelial buds of these glands are located on the inner part of the cheek, near the labial commissures of the primitive mouth (from ectodermal lining near angles of the stomodeum in the 1st/2nd pharyngeal arches; th
+[organs] Parotid gland.l / Development: rupturing
+    The epithelial buds of these glands are located on the inner part of the cheek, near the labial commissures of the primitive mouth (from ectodermal lining near angles of the stomodeum in the 1st/2nd pharyngeal arches; th
+[organs] Submandibular gland.l / Function: inflammatory
+    The submandibular gland releases a host of factors which regulate systemic inflammatory responses and modulate systemic immune and inflammatory reactions.
+[organs] Submandibular gland.l / Function: inflammation
+    SGP-T, an isolate of the submandibular gland, demonstrated its immunoregulatory properties and potential role in modulating the CST-SMG axis, and subsequently was shown to play an important role in the control of inflamm
+[organs] Submandibular gland.r / Function: inflammatory
+    The submandibular gland releases a host of factors which regulate systemic inflammatory responses and modulate systemic immune and inflammatory reactions.
+[organs] Submandibular gland.r / Function: inflammation
+    SGP-T, an isolate of the submandibular gland, demonstrated its immunoregulatory properties and potential role in modulating the CST-SMG axis, and subsequently was shown to play an important role in the control of inflamm
+[organs] Vermiform appendix / Structure: congenital
+    Some identical twins—known as mirror image twins—can have a mirror-imaged anatomy, a congenital condition with the appendix located in the lower left quadrant of the abdomen instead of the lower right.
+[organs] Liver / Function: treatment
+    Some functions can be carried out by liver dialysis, an experimental treatment for liver failure.
+[organs] Renal pelvis.l / Intro: cancer, infection
+    The renal pelvis is the location of several kinds of kidney cancer and is affected by infection in pyelonephritis.
+[organs] Renal pelvis.r / Intro: cancer, infection
+    The renal pelvis is the location of several kinds of kidney cancer and is affected by infection in pyelonephritis.
+[organs] Ureter.l / Intro: diseases, infections
+    The ureters can be affected by a number of diseases, including urinary tract infections and kidney stone.
+[organs] Ureter.l / Intro: inflammation, stenosis
+    Stenosis is when a ureter is narrowed, due to for example chronic inflammation.
+[organs] Ureter.r / Intro: diseases, infections
+    The ureters can be affected by a number of diseases, including urinary tract infections and kidney stone.
+[organs] Ureter.r / Intro: inflammation, stenosis
+    Stenosis is when a ureter is narrowed, due to for example chronic inflammation.
+[organs] Nasopharynx / Intro: infection
+    Polyps or mucus can obstruct the nasopharynx, as can congestion due to an upper respiratory infection.
+[vessels] Pulmonary trunk / Function: disease, stenosis
+    The wedge pressure may be elevated in left heart failure,: 190–191 mitral valve stenosis, and other conditions, such as sickle cell disease.
+[vessels] Right coronary artery / Structure: patients
+    In approximately 80% of patients (Right Dominant), the RCA gives off the posterior descending artery (PDA).
+[vessels] Superior mesenteric artery / Structure: syndrome
+    Located under this portion of the superior mesenteric artery, between it and the aorta, are the following: left renal vein - travels between the left kidney and the inferior vena cava (can be compressed between the SMA a
+[vessels] Coeliac trunk / Function: necrosis
+    Thus it cannot be safely ligated in a living person, and obstruction of the celiac artery will lead to necrosis of the structures it supplies.
+[vessels] Abdominal aorta / Structure: clinically
+    The abdominal aorta is clinically divided into 2 segments: The suprarenal abdominal or paravisceral segment, inferior to the diaphragm but superior to the renal arteries.
+[vessels] Dorsal artery of penis.r / Intro: amputation, surgery, traumatic
+    The dorsal artery of the penis may be damaged in traumatic amputation of the penis, requiring surgery to fix.
+[vessels] Dorsal artery of penis.l / Intro: amputation, surgery, traumatic
+    The dorsal artery of the penis may be damaged in traumatic amputation of the penis, requiring surgery to fix.
+[vessels] Inferior epigastric artery.r / Intro: hernias
+    These epigastric vessels form the lateral border of Hesselbach's triangle, which outlines the area through which direct inguinal hernias protrude.
+[vessels] Inferior epigastric artery.l / Intro: hernias
+    These epigastric vessels form the lateral border of Hesselbach's triangle, which outlines the area through which direct inguinal hernias protrude.
+[vessels] Ascending aorta / Structure: aneurysm
+    A thoracic aortic diameter greater than 3.5 cm is generally considered dilated, whereas a diameter greater than 4.5 cm is generally considered to be a thoracic aortic aneurysm.
+[vessels] Submental artery.r / Course: surgeons
+    Surgeons can use the skin and vessels in reconstruction of the face or the oral cavity.
+[vessels] Submental artery.l / Course: surgeons
+    Surgeons can use the skin and vessels in reconstruction of the face or the oral cavity.
+[vessels] Middle meningeal artery.r / Intro: injury
+    It is vulnerable to injury at this point, where the skull is thin.
+[vessels] Middle meningeal artery.l / Intro: injury
+    It is vulnerable to injury at this point, where the skull is thin.
+[vessels] Superior cerebellar artery.r / Intro: patients
+    It is the cause of trigeminal neuralgia in some patients.
+[vessels] Superior cerebellar artery.l / Intro: patients
+    It is the cause of trigeminal neuralgia in some patients.
+[vessels] Posterior inferior cerebellar artery.r / Intro: syndrome
+    Blockage of the posterior inferior cerebellar artery can result in a type of stroke called lateral medullary syndrome.
+[vessels] Posterior inferior cerebellar artery.l / Intro: syndrome
+    Blockage of the posterior inferior cerebellar artery can result in a type of stroke called lateral medullary syndrome.
+[vessels] Internal thoracic artery.l / Intro: surgeons
+    In human anatomy, the internal thoracic artery (ITA), previously commonly known as the internal mammary artery (a name still common among surgeons), is an artery that supplies the anterior chest wall and the breasts.
+[vessels] Internal thoracic artery.r / Intro: surgeons
+    In human anatomy, the internal thoracic artery (ITA), previously commonly known as the internal mammary artery (a name still common among surgeons), is an artery that supplies the anterior chest wall and the breasts.
+[vessels] Dorsalis pedis artery.r / Intro: anaesthesia
+    It is also at risk during anaesthesia of the deep peroneal nerve.
+[vessels] Dorsalis pedis artery.l / Intro: anaesthesia
+    It is also at risk during anaesthesia of the deep peroneal nerve.
+[vessels] Fibular artery.r / Structure: clinical, surgeons
+    Some sources claim that the fibular artery arises directly from the posterior tibial artery, but vascular and plastic surgeons note the clinical significance of the tibial-fibular trunk.
+[vessels] Fibular artery.l / Structure: clinical, surgeons
+    Some sources claim that the fibular artery arises directly from the posterior tibial artery, but vascular and plastic surgeons note the clinical significance of the tibial-fibular trunk.
+[vessels] Azygos vein / Function: clinical
+    This can have clinical significance in any blood flow restriction of the inferior vena cava.
+[vessels] Angular vein.r / Intro: infection
+    It can be a route of spread of infection from the danger triangle of the face to the cavernous sinus.
+[vessels] Angular vein.l / Intro: infection
+    It can be a route of spread of infection from the danger triangle of the face to the cavernous sinus.
+[vessels] Superior petrosal sinus.r / Intro: surgery, treated
+    They may be affected by arteriovenous malformation or arteriovenous fistula, usually treated with surgery.
+[vessels] Superior petrosal sinus.l / Intro: surgery, treated
+    They may be affected by arteriovenous malformation or arteriovenous fistula, usually treated with surgery.
+[vessels] Superficial dorsal veins of penis / Intro: fracture, rupture
+    It is possible for the vein to rupture, which presents in a manner similar to penile fracture.
+[vessels] Dorsal venous arch of foot.r / Intro: patient
+    It is usually fairly easy to palpate and visualize (if the patient is barefoot).
+[vessels] Dorsal venous arch of foot.l / Intro: patient
+    It is usually fairly easy to palpate and visualize (if the patient is barefoot).
+[vessels] Inferior pancreaticoduodenal artery / Intro: aneurysm
+    Rarely, it may have an aneurysm.
+[vessels] Superior ophthalmic vein.l / Intro: infection
+    It can be a path for the spread of infection from the danger triangle of the face to the cavernous sinus and the pterygoid plexus.
+[vessels] Superior ophthalmic vein.l / Intro: embolization, treated
+    It may also be affected by an arteriovenous fistula of the cavernous sinus, treated with embolization.
+[vessels] Anterior cerebral artery.r / Intro: symptoms, syndrome
+    Anterior cerebral artery syndrome refers to symptoms that follow a stroke occurring in the area normally supplied by one of the arteries.
+[vessels] Anterior cerebral artery.r / Intro: lesion
+    It is characterized by weakness and sensory loss in the lower leg and foot opposite to the lesion and behavioral changes.
+[vessels] Anterior cerebral artery.l / Intro: symptoms, syndrome
+    Anterior cerebral artery syndrome refers to symptoms that follow a stroke occurring in the area normally supplied by one of the arteries.
+[vessels] Anterior cerebral artery.l / Intro: lesion
+    It is characterized by weakness and sensory loss in the lower leg and foot opposite to the lesion and behavioral changes.
+[vessels] Superior ophthalmic vein.r / Intro: infection
+    It can be a path for the spread of infection from the danger triangle of the face to the cavernous sinus and the pterygoid plexus.
+[vessels] Superior ophthalmic vein.r / Intro: embolization, treated
+    It may also be affected by an arteriovenous fistula of the cavernous sinus, treated with embolization.
+
+Descriptions scanned: 1673
+Clinical sentences outside "Clinical significance": 144 in 117 structures
+Most common words: syndrome (16), lesions (12), pain (11), patients (11), injury (8), treatment (7), lesion (7), inflammation (7), infection (7), disorders (6), disease (6), diseases (6), surgeons (6), congenital (5), patient (4)

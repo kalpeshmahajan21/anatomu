@@ -1,0 +1,4 @@
+# Binary assets: never touch line endings
+*.glb binary
+*.wasm binary
+*.png binary

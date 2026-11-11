@@ -1,0 +1,61 @@
+Anatomu
+Third-party material and credits
+
+The source code is MIT-licensed (see LICENSE). The anatomy data in public/models/ comes
+from the sources below and is shared under their licenses. If you reuse these files, keep
+these credits and the same licenses.
+
+--------------------------------------------------------------------------------
+3D anatomy models (public/models/*.glb, names in index.json)
+--------------------------------------------------------------------------------
+Z-Anatomy
+  https://www.z-anatomy.com/
+  https://github.com/Z-Anatomy/Models-of-human-anatomy
+  License: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
+
+BodyParts3D, (c) The Database Center for Life Science (DBCLS)
+  https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+  License: CC BY-SA 4.0 (Z-Anatomy is built on BodyParts3D)
+
+The exported .glb files are adapted from the above (merged per layer, simplified,
+Draco-compressed, renamed in places). As derived works they are shared under
+CC BY-SA 4.0.
+
+Exceptions noted in Z-Anatomy's own license file (non-commercial licenses):
+  - "Kidney" by Lissie Cowley: CC BY-NC 4.0
+  - Inner ear model, University of Dundee: CC BY-NC-SA 4.0
+Check these before any commercial use.
+
+--------------------------------------------------------------------------------
+Female anatomy (pelvis, uterus, ovaries, uterine tubes, breasts, bladder)
+--------------------------------------------------------------------------------
+NIH Human Reference Atlas, 3D Reference Organs (Visible Human female)
+  https://humanatlas.io/3d-reference-library
+  License: CC BY 4.0  https://creativecommons.org/licenses/by/4.0/
+  Changes: scaled, moved and rotated to fit the Z-Anatomy skeleton, simplified,
+  compressed.
+
+--------------------------------------------------------------------------------
+Descriptions (public/models/info/*.json)
+--------------------------------------------------------------------------------
+Wikipedia, as bundled in the Z-Anatomy file
+  https://www.wikipedia.org/
+  License: CC BY-SA 4.0
+  Changes: shortened to anatomy sections, cleaned of markup, clinical passages moved
+  into a separate "Clinical significance" section. That section has not been reviewed
+  by a doctor and is for learning only.
+
+--------------------------------------------------------------------------------
+Latin names and codes
+--------------------------------------------------------------------------------
+Terminologia Anatomica, 2nd edition (TA2)
+  Federative International Programme for Anatomical Terminology (FIPAT)
+  https://fipat.library.dal.ca/
+
+--------------------------------------------------------------------------------
+Software libraries
+--------------------------------------------------------------------------------
+three.js, React, @react-three/fiber, @react-three/drei, camera-controls,
+three-mesh-bvh, zustand, Tailwind CSS, Vite: MIT License (see each package in
+node_modules). The Draco decoder in public/draco/ is from Google's Draco project,
+Apache License 2.0.
